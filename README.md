@@ -1,6 +1,6 @@
 # Ammar Kamel
 
-> Software Engineer
+> Full-Stack Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ammar-kamel)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:ammarmohamedkamel99@gmail.com)
@@ -9,7 +9,7 @@
 ```javascript
 const skills = {
     languages: ['JavaScript', 'TypeScript', 'Python'],
-    frameworks: ['Angular', 'Node.js'],
+    frameworks: ['Angular', 'React', 'Node.js'],
     platforms: ['GitHub', 'Docker'],
 };
 ```
