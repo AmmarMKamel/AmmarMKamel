@@ -8,8 +8,8 @@
 ## 🛠️ Technical Stack
 ```javascript
 const skills = {
-    languages: ['JavaScript', 'TypeScript', 'Python'],
-    frameworks: ['Angular', 'React', 'Node.js'],
+    languages: ['JavaScript', 'TypeScript', 'C#'],
+    frameworks: ['Angular', 'ASP.NET Core', 'Node.js'],
     platforms: ['GitHub', 'Docker'],
 };
 ```
