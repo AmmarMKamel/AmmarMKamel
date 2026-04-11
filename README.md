@@ -1,7 +1,7 @@
 <h1 align="center">Ammar Kamel</h1>
 
 <p align="center">
-  <b>Full-Stack Developer • Angular • React • Node.js</b><br>
+  <b>Full-Stack Developer • Angular • Node.js • .NET</b><br>
   I build scalable web applications, design reusable systems, and ship production-ready features used by real users.
 </p>
 
