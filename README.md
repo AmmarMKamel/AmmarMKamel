@@ -60,7 +60,7 @@ Previously worked at **TopProz (US)**, contributing to a large-scale platform by
 ## 🛠️ Tech Stack
 
 - Frontend: Angular, React, TypeScript, RxJS, Tailwind, PrimeNG
-- Backend: Node.js, Express
+- Backend: Node.js, Express, .NET
 - Databases: MongoDB, PostgreSQL
 - Integrations: Stripe, Twilio, WebSockets, REST APIs
 - Tools: Docker, Git, Linux, Agile, Jira
