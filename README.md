@@ -44,7 +44,7 @@ Previously worked at **TopProz (US)**, contributing to a large-scale platform by
 
 ### Backend & Integrations
 
-- Node.js / Express
+- Node.js & .NET
 - REST APIs & system design
 - WebSockets (real-time systems)
 - Authentication & authorization
@@ -60,7 +60,7 @@ Previously worked at **TopProz (US)**, contributing to a large-scale platform by
 ## 🛠️ Tech Stack
 
 - Frontend: Angular, React, TypeScript, RxJS, Tailwind, PrimeNG
-- Backend: Node.js, Express, .NET
+- Backend: Node.js, Express, .NET Core
 - Databases: MongoDB, PostgreSQL
 - Integrations: Stripe, Twilio, WebSockets, REST APIs
 - Tools: Docker, Git, Linux, Agile, Jira
@@ -69,32 +69,39 @@ Previously worked at **TopProz (US)**, contributing to a large-scale platform by
 
 ## 📌 Featured Projects
 
-### 🎬 WatchX — Movie Platform
+### ✅ Task Master — Task Management App (Angular + .NET Core)
 
-- Movie browsing and watchlist app using React
-- Dynamic API-driven UI with search & filtering
+Full-stack task management system with JWT authentication, CRUD operations, and responsive UI.  
+**Tech:** Angular, .NET Core, EF Core (Code First), SQL Server, PrimeNG
 
-🔗 https://movies-app-rose-gamma.vercel.app/  
-📦 https://github.com/AmmarMKamel/movies-app
-
----
-
-### 💰 GoFundX — Crowdfunding Platform
-
-- Full-stack app with authentication & campaign features
-- Built using Django + PostgreSQL
-
-📦 https://github.com/00AhmedMokhtar00/GoFundX
+🔗 Frontend Repo: [github.com/AmmarMKamel/task-master-fe](https://github.com/AmmarMKamel/task-master-fe)  
+🔗 Backend Repo: [github.com/AmmarMKamel/task-master-api](https://github.com/AmmarMKamel/task-master-api)
 
 ---
 
-### 🛒 ElTech — E-commerce Platform
+### 💰 GoFundX — Crowdfunding Platform (Team Project)
 
-- Full-featured e-commerce system (products, cart, orders)
-- Worked on UI modules, dashboard, and authentication
+Django-based crowdfunding app with campaign creation and user interaction.  
 
-📦 Frontend: https://github.com/iti-graduation/ElTech-FrontEnd  
-📦 Backend: https://github.com/iti-graduation/ElTech-BackEnd
+📦 Repo: [github.com/00AhmedMokhtar00/GoFundX](https://github.com/00AhmedMokhtar00/GoFundX)
+
+---
+
+### 🎬 WatchX — Movie Discovery App (Team Project)
+
+React-based movie explorer using **TMDB API**. Features search, genre filtering, pagination, and a watchlist saved to local storage.
+
+🔗 Live Demo: [https://movies-app-rose-gamma.vercel.app/](https://movies-app-rose-gamma.vercel.app/)  
+📦 Repo: [github.com/AmmarMKamel/movies-app](https://github.com/AmmarMKamel/movies-app)
+
+---
+
+### 🛒 ElTech — E-commerce Platform (Team Project)
+
+Full-featured e-commerce platform with product listings, cart, orders, and admin dashboard.  
+
+📦 Frontend: [github.com/iti-graduation/ElTech-FrontEnd](https://github.com/iti-graduation/ElTech-FrontEnd)  
+📦 Backend: [github.com/iti-graduation/ElTech-BackEnd](https://github.com/iti-graduation/ElTech-BackEnd)
 
 ---
 
@@ -108,8 +115,7 @@ Previously worked at **TopProz (US)**, contributing to a large-scale platform by
 
 ## 🎯 Currently
 
-- Expanding backend expertise toward **.NET ecosystem**
-- Deepening knowledge in **system design & scalable architecture**
+- Deepening expertise in **.NET Core and system design**
 - Open to **front-end & full-stack opportunities**
 
 ---
