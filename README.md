@@ -1,7 +1,7 @@
 <h1 align="center">Ammar Kamel</h1>
 
 <p align="center">
-  <b>Full-Stack Developer • Angular • Node.js • .NET</b><br>
+  <b>Full-Stack Developer • Angular • Node.js</b><br>
   I build scalable web applications, design reusable systems, and ship production-ready features used by real users.
 </p>
 
@@ -37,14 +37,14 @@ Previously worked at **TopProz (US)**, contributing to a large-scale platform by
 
 ### Frontend Engineering
 
-- Angular (Advanced), React
+- Angular (Advanced)
 - Scalable component architecture
 - State management & performance optimization
 - Responsive and accessible UI development
 
 ### Backend & Integrations
 
-- Node.js & .NET
+- Node.js
 - REST APIs & system design
 - WebSockets (real-time systems)
 - Authentication & authorization
@@ -59,8 +59,8 @@ Previously worked at **TopProz (US)**, contributing to a large-scale platform by
 
 ## 🛠️ Tech Stack
 
-- Frontend: Angular, React, TypeScript, RxJS, Tailwind, PrimeNG
-- Backend: Node.js, Express, .NET Core
+- Frontend: Angular, TypeScript, RxJS, Tailwind, PrimeNG
+- Backend: Node.js, Express
 - Databases: MongoDB, PostgreSQL
 - Integrations: Stripe, Twilio, WebSockets, REST APIs
 - Tools: Docker, Git, Linux, Agile, Jira
@@ -68,16 +68,6 @@ Previously worked at **TopProz (US)**, contributing to a large-scale platform by
 ---
 
 ## 📌 Featured Projects
-
-### ✅ Task Master — Task Management App (Angular + .NET Core)
-
-Full-stack task management system with JWT authentication, CRUD operations, and responsive UI.  
-**Tech:** Angular, .NET Core, EF Core (Code First), SQL Server, PrimeNG
-
-🔗 Frontend Repo: [github.com/AmmarMKamel/task-master-fe](https://github.com/AmmarMKamel/task-master-fe)  
-🔗 Backend Repo: [github.com/AmmarMKamel/task-master-api](https://github.com/AmmarMKamel/task-master-api)
-
----
 
 ### 💰 GoFundX — Crowdfunding Platform (Team Project)
 
@@ -115,7 +105,7 @@ Full-featured e-commerce platform with product listings, cart, orders, and admin
 
 ## 🎯 Currently
 
-- Deepening expertise in **.NET Core and system design**
+- Deepening expertise in **system design**
 - Open to **front-end & full-stack opportunities**
 
 ---
